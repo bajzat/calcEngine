@@ -1,0 +1,14 @@
+
+Calculator/obj/
+
+Calculator/bin/
+
+Calculator\.Engine/bin/
+
+Calculator\.Engine/obj/
+
+Calculator\.Test/bin/
+
+Calculator\.Test/obj/
+
+packages/
